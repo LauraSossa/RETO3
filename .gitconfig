@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Your Name
+	email = you@example.com
+# Please adapt and uncomment the following lines:
+#	name = Oracle Public Cloud User
+#	email = opc@instance-reto3.subnet09221946.vcn09221946.oraclevcn.com
